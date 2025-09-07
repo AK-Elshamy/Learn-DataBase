@@ -4,8 +4,8 @@
 
 هذا المستودع مخصص لتعلم **قواعد البيانات (Databases)** من خلال محتوى المهندس **رامي – Instructor ITI**.  
 
-🔗 ### [Course Link](https://www.youtube.com/watch?v=nUiuyejbemc&list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_) 
-🔗 ### [Course Labs](https://drive.google.com/drive/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1) 
+### 🔗  [Course Link](https://www.youtube.com/watch?v=nUiuyejbemc&list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_) 
+### 🔗 [Course Labs](https://drive.google.com/drive/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1) 
 
 ---
 
