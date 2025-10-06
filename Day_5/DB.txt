@@ -1,0 +1,14 @@
+tableName     
+--------------
+Authors       
+LibraryMembers
+Books         
+Borrowings  
+---
+author_id   first_name  last_name 
+---
+member_id   Fname       Lname       email     
+---
+book_id     author_id   title       published_year
+---
+borrowing_id  member_id   book_id     borrow_date  return_date
