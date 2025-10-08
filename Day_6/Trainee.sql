@@ -29,3 +29,5 @@ FROM Borrowings
     INNER JOIN LibraryMembers ON Borrowings.member_id = LibraryMembers.member_id
     INNER JOIN Books ON Borrowings.book_id = Books.book_id;
 GO
+----
+
